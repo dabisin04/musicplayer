@@ -1,0 +1,77 @@
+2025-05-07 15:09:25,161 - uvicorn.access - INFO - 172.17.0.1:56520 - "POST /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:09:25,171 - uvicorn.access - INFO - 172.17.0.1:56520 - "POST /tidal/login HTTP/1.1" 405
+2025-05-07 15:09:29,040 - uvicorn.access - INFO - 172.17.0.1:56520 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:09:29,048 - uvicorn.access - INFO - 172.17.0.1:56520 - "GET /tidal/login HTTP/1.1" 500
+2025-05-07 15:11:04,864 - uvicorn.access - INFO - 172.17.0.1:40906 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:11:34,775 - uvicorn.access - INFO - 172.17.0.1:40906 - "GET /tidal/login HTTP/1.1" 500
+2025-05-07 15:13:03,689 - uvicorn.access - INFO - 172.17.0.1:43208 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:13:04,116 - uvicorn.access - INFO - 172.17.0.1:43208 - "GET /tidal/login HTTP/1.1" 500
+2025-05-07 15:14:27,164 - uvicorn.access - INFO - 172.17.0.1:39244 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:14:27,465 - uvicorn.access - INFO - 172.17.0.1:39244 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:15:03,832 - uvicorn.access - INFO - 172.17.0.1:49718 - "POST /tidal/login/verify HTTP/1.1" 401
+2025-05-07 15:16:12,759 - uvicorn.access - INFO - 172.17.0.1:55986 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:16:13,185 - uvicorn.access - INFO - 172.17.0.1:55986 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:16:45,489 - uvicorn.access - INFO - 172.17.0.1:37680 - "POST /tidal/login/verify HTTP/1.1" 401
+2025-05-07 15:17:49,459 - uvicorn.access - INFO - 172.17.0.1:56878 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:17:49,921 - uvicorn.access - INFO - 172.17.0.1:56878 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:18:16,605 - uvicorn.access - INFO - 172.17.0.1:53328 - "POST /tidal/login/verify HTTP/1.1" 401
+2025-05-07 15:19:31,068 - uvicorn.access - INFO - 172.17.0.1:58046 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:19:31,354 - uvicorn.access - INFO - 172.17.0.1:58046 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:20:03,672 - uvicorn.access - INFO - 172.17.0.1:40842 - "POST /tidal/login/verify HTTP/1.1" 401
+2025-05-07 15:21:16,109 - uvicorn.access - INFO - 172.17.0.1:58326 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:21:16,529 - uvicorn.access - INFO - 172.17.0.1:58326 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:21:40,937 - uvicorn.access - INFO - 172.17.0.1:41562 - "POST /tidal/login/verify HTTP/1.1" 401
+2025-05-07 15:24:07,885 - uvicorn.access - INFO - 172.17.0.1:45332 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:24:08,185 - uvicorn.access - INFO - 172.17.0.1:45332 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:27:48,227 - uvicorn.access - INFO - 172.17.0.1:40896 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:27:48,518 - uvicorn.access - INFO - 172.17.0.1:40896 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:30:41,831 - uvicorn.access - INFO - 172.17.0.1:41954 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:30:42,245 - uvicorn.access - INFO - 172.17.0.1:41954 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:31:03,974 - uvicorn.access - INFO - 172.17.0.1:35418 - "POST /tidal/login/verify HTTP/1.1" 401
+2025-05-07 15:32:38,038 - uvicorn.access - INFO - 172.17.0.1:34144 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:32:38,438 - uvicorn.access - INFO - 172.17.0.1:34144 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:34:48,865 - uvicorn.access - INFO - 172.17.0.1:41734 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:34:49,354 - uvicorn.access - INFO - 172.17.0.1:41734 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:40:09,461 - uvicorn.access - INFO - 172.17.0.1:51236 - "POST /tidal/login/verify HTTP/1.1" 401
+2025-05-07 15:43:15,720 - uvicorn.access - INFO - 172.17.0.1:41346 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:43:16,130 - uvicorn.access - INFO - 172.17.0.1:41346 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:46:34,302 - uvicorn.access - INFO - 172.17.0.1:35758 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:46:34,731 - uvicorn.access - INFO - 172.17.0.1:35758 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:49:47,446 - uvicorn.access - INFO - 172.17.0.1:42598 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:49:47,857 - uvicorn.access - INFO - 172.17.0.1:42598 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:50:10,726 - uvicorn.access - INFO - 172.17.0.1:32838 - "POST /tidal/login/verify HTTP/1.1" 500
+2025-05-07 15:51:53,357 - uvicorn.access - INFO - 172.17.0.1:45664 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:51:53,642 - uvicorn.access - INFO - 172.17.0.1:45664 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:52:14,009 - uvicorn.access - INFO - 172.17.0.1:34334 - "POST /tidal/login/verify HTTP/1.1" 500
+2025-05-07 15:54:22,471 - uvicorn.access - INFO - 172.17.0.1:52148 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:54:22,899 - uvicorn.access - INFO - 172.17.0.1:52148 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 15:54:48,083 - uvicorn.access - INFO - 172.17.0.1:46260 - "POST /tidal/login/verify HTTP/1.1" 500
+2025-05-07 15:55:51,969 - uvicorn.access - INFO - 172.17.0.1:58098 - "GET /tidal/track/321414286 HTTP/1.1" 500
+2025-05-07 15:55:51,970 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+  File "/usr/local/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/fastapi/applications.py", line 1106, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.9/site-packages/starlette/middleware/base.py", line 108, in __call__
+    response = await self.dispatch_func(request, call_next)
+  File "/app/api/main.py", line 30, in session_middleware
+    return await verify_session_middleware(request, call_next)
+  File "/app/api/middleware.py", line 34, in verify_session_middleware
+    "login_url": login_link.verification_uri_complete
+AttributeError: 'dict' object has no attribute 'verification_uri_complete'
+2025-05-07 15:58:28,134 - uvicorn.access - INFO - 172.17.0.1:36984 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:58:28,142 - uvicorn.access - INFO - 172.17.0.1:36984 - "GET /tidal/login HTTP/1.1" 500
+2025-05-07 15:59:41,157 - uvicorn.access - INFO - 172.17.0.1:54024 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 15:59:41,584 - uvicorn.access - INFO - 172.17.0.1:54024 - "GET /tidal/login HTTP/1.1" 200
+2025-05-07 16:02:43,929 - uvicorn.access - INFO - 172.17.0.1:60576 - "GET /tidal/login/ HTTP/1.1" 307
+2025-05-07 16:03:20,989 - uvicorn.access - INFO - 172.17.0.1:60576 - "GET /tidal/login HTTP/1.1" 500
+2025-05-07 16:03:30,653 - uvicorn.access - INFO - 172.17.0.1:48734 - "POST /tidal/login/verify HTTP/1.1" 500
